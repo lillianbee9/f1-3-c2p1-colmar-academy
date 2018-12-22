@@ -1,0 +1,39 @@
+.body{
+  font-family: 'Roboto', sans-serif;
+  color: grey
+}
+
+.logo{
+  width: 50px;
+  height: 32px;
+
+}
+
+.navigation-bar{
+
+  text-align: center;
+}
+
+ul{
+  float: right;
+}
+
+li{
+  display: inline-block;
+  margin-right: 25px;
+  text-align: center;
+}
+
+h1{
+  color: grey;
+}
+
+
+.container{
+  margin: 0 auto;
+  background-color: grey;
+}
+
+h4{
+  color: white;
+}
